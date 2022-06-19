@@ -1,2 +1,2 @@
 # Project
-It have made some projects using C language
+I have made some projects using C language
